@@ -6,7 +6,7 @@ const users = require("./users0");
 
 
 let user = {
-    name: = {
+    name:"Saps1",
 	age: 25,
 	language: ["Node", "React", "Graphql"]
 };
