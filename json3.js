@@ -4,7 +4,6 @@ const fs = require("fs");
 const users = require("./users0");
 
 
-
 let user = {
     name:"Saps1",
 	age: 25,
